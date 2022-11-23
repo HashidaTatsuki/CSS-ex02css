@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+html{
+    background:url(mokume\ .jpg) ;
+    color: rgba(180,180,180,0.95);
+}
+
+a{
+    color: aquamarine;
+}
+
+li{
+    font-family: serif;
+}\
